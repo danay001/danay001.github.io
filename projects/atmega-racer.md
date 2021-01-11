@@ -1,4 +1,8 @@
-# ATMega Racer
+---
+title: ATMega Racer
+layout: page
+---
+
 This is my final project for Embedded Systems (CS120B) class at UC Riverside
 
 ## About this Project
